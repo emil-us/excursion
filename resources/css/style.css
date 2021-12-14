@@ -20,8 +20,9 @@ body {
     color: white;
 }
 
-a {
-    color: aquamarine
+.cta {
+    color: aquamarine;
+    font-size: 16px;
 }
 
 video {
